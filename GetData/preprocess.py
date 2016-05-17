@@ -1,4 +1,10 @@
-# coding=utf-8
+# -*- coding: utf-8 -*-
+
+"""
+@author: ake
+@software: PyCharm Community Edition
+@time: 2016/5/17 11:19
+"""
 import os
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen

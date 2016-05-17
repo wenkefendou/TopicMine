@@ -1,10 +1,17 @@
-# coding=utf-8
+# -*- coding: utf-8 -*-
+
+"""
+@author: ake
+@software: PyCharm Community Edition
+@time: 2016/5/17 11:19
+"""
 import logging, bz2
 
 from math import sqrt
-import numpy as np
 import matplotlib.pyplot as plt
-from gensim import corpora, models, similarities
+
+from LDA_T.train_corpora import dict_corpora_from_file
+from gensim import corpora, models
 
 
 def cos_dist(a, b):
@@ -26,8 +33,9 @@ def cos_dist(a, b):
 
 def lda_test(numbers):
     logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-    dict1 = corpora.Dictionary.load('./data/dys.dict')
-    corpus1 = corpora.MmCorpus('./data/dys.mm')
+    # dict1 = corpora.Dictionary.load('./data/dys.dict')
+    # corpus1 = corpora.MmCorpus('./data/dys.mm')
+    dict1, corpus1 = dict_corpora_from_file('data/noun1.txt')
     # lda模型训练
     tfidf = models.TfidfModel(corpus1)  # 生成tf-idf模型
     corpus_tfidf = tfidf[corpus1]

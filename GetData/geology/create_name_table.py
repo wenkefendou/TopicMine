@@ -1,11 +1,11 @@
-# coding=utf-8
+# -*- coding: utf-8 -*-
+
 """
-可以按照geocount中的发文量排名，降序抽取出某个作者名的所有文章，
-生成相应的“作者名”，其中新增一列author_unique，用来表示重名作
-者的唯一标识。
+@author: ake
+@software: PyCharm Community Edition
+@time: 2016/5/17 11:19
 """
 import re
-
 from GetData.preprocess import handledata, getdata
 
 

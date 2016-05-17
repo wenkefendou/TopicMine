@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b3bd1e7-1b44-4292-989e-f4d65b09b212" name="Default" comment="" />
+    <list default="true" id="5b3bd1e7-1b44-4292-989e-f4d65b09b212" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/lenovo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LDA_T/get_noun_chunk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LDA_T/n_gram_count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LDA_T/train_corpora.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/Corpora.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/SimilarityQuery.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/Transformations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/hdp.0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/model.hdp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/model.lda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/model.lda.state" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/modeltest.lsi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/modeltest.lsi.projection" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/mycorpus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.dict" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.lda-c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.lda-c.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.lda-c.vocab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.mm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.mm.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.svmlight" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/data/test.svmlight.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/process_wiki.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gensim/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GetData/C-DBLP/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GetData/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GetData/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LDA_T/data/chunk.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LDA_T/data/noun2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LDA_T/data/parse.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LDA_T/data/userdict - 副本.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LDA_T/get_chunk.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LDA_T/test.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LDA_T/data/dys.mm.index" afterPath="$PROJECT_DIR$/LDA_T/data/dys.mm.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GetData/geology/access_to_mysql.py" afterPath="$PROJECT_DIR$/GetData/geology/access_to_mysql.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GetData/geology/create_name_table.py" afterPath="$PROJECT_DIR$/GetData/geology/create_name_table.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GetData/preprocess.py" afterPath="$PROJECT_DIR$/GetData/preprocess.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LDA_T/data/dys.dict" afterPath="$PROJECT_DIR$/LDA_T/data/dys.dict" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LDA_T/data/dys.mm" afterPath="$PROJECT_DIR$/LDA_T/data/dys.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LDA_T/lda_gensim.py" afterPath="$PROJECT_DIR$/LDA_T/lda_gensim.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LDA_T/predata.py" afterPath="$PROJECT_DIR$/LDA_T/predata.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LDA_T/2-10topics.png" afterPath="$PROJECT_DIR$/LDA_T/pictures/2-10topics.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LDA_T/2-19topics.png" afterPath="$PROJECT_DIR$/LDA_T/pictures/2-19topics.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LDA_T/40topics.png" afterPath="$PROJECT_DIR$/LDA_T/pictures/40topics.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LDA_T/data/userdict.txt" afterPath="$PROJECT_DIR$/LDA_T/data/user_dict.txt" />
+    </list>
     <ignored path="TopicMine.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +66,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="TopicMine" />
+    <favorites_list name="TopicMine">
+      <favorite_root url="file://$PROJECT_DIR$/LDA_T/data/user_dict.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Corpora.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gensim/Corpora.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6051873">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,13 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GetData/geology/name_disambiguation.py" />
-        <option value="$PROJECT_DIR$/GetData/geology/data/depart_coauthor_match.txt" />
-        <option value="$PROJECT_DIR$/GetData/geology/data/test.py" />
-        <option value="$PROJECT_DIR$/GetData/geology/data/weifenlei.txt" />
-        <option value="$PROJECT_DIR$/GetData/geology/name_dis_depart.py" />
-        <option value="$PROJECT_DIR$/GetData/geology/name_dis_depart_coauthor.py" />
-        <option value="$PROJECT_DIR$/GetData/geology/data/no_type2.txt" />
         <option value="$PROJECT_DIR$/GetData/geology/data/no_type1.txt" />
         <option value="$PROJECT_DIR$/GetData/geology/name_dis_sim.py" />
         <option value="$PROJECT_DIR$/GetData/geology/name_dis_corpus.py" />
@@ -75,7 +108,6 @@
         <option value="$PROJECT_DIR$/LDA-T/data/train_data.txt" />
         <option value="$PROJECT_DIR$/LDA-T/lda_gensim.py" />
         <option value="$PROJECT_DIR$/LDA-T/n-gram.py" />
-        <option value="$PROJECT_DIR$/GetData/geology/create_name_table.py" />
         <option value="$PROJECT_DIR$/LDA_T/data/temp2.txt" />
         <option value="$PROJECT_DIR$/LDA_T/data/temp1.txt" />
         <option value="$PROJECT_DIR$/LDA_T/data/noun.txt" />
@@ -87,22 +119,32 @@
         <option value="$PROJECT_DIR$/LDA_T/data/segment.txt" />
         <option value="$PROJECT_DIR$/LDA_T/data/parse.txt" />
         <option value="$PROJECT_DIR$/LDA_T/data/stopwords.txt" />
-        <option value="$PROJECT_DIR$/LDA_T/hdp_gensim.py" />
-        <option value="$PROJECT_DIR$/GetData/preprocess.py" />
         <option value="$PROJECT_DIR$/LDA_T/test.py" />
-        <option value="$PROJECT_DIR$/LDA_T/get_chunk.py" />
         <option value="$PROJECT_DIR$/LDA_T/data/userdict.txt" />
-        <option value="$PROJECT_DIR$/LDA_T/data/segment_jieba.txt" />
-        <option value="$PROJECT_DIR$/LDA_T/data/pos.txt" />
-        <option value="$PROJECT_DIR$/LDA_T/predata.py" />
-        <option value="$PROJECT_DIR$/LDA_T/lda_gensim.py" />
         <option value="$PROJECT_DIR$/Gensim/Corpora.py" />
+        <option value="$PROJECT_DIR$/Gensim/train_models.py" />
+        <option value="$PROJECT_DIR$/Gensim/train_corpora.py" />
+        <option value="$PROJECT_DIR$/Gensim/test.py" />
+        <option value="$PROJECT_DIR$/LDA_T/n_gram_count.py" />
+        <option value="$PROJECT_DIR$/LDA_T/get_chunk.py" />
+        <option value="$PROJECT_DIR$/LDA_T/hdp_gensim.py" />
+        <option value="$PROJECT_DIR$/LDA_T/train_corpora.py" />
+        <option value="$PROJECT_DIR$/LDA_T/get_noun_chunk.py" />
+        <option value="$PROJECT_DIR$/LDA_T/predata.py" />
+        <option value="$PROJECT_DIR$/LDA_T/data/pos.txt" />
+        <option value="$PROJECT_DIR$/LDA_T/data/segment_jieba.txt" />
+        <option value="$PROJECT_DIR$/LDA_T/lda_gensim.py" />
+        <option value="$PROJECT_DIR$/GetData/geology/access_to_mysql.py" />
+        <option value="$PROJECT_DIR$/GetData/geology/create_name_table.py" />
+        <option value="$PROJECT_DIR$/GetData/preprocess.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -130,7 +172,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -149,6 +191,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,34 +210,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopicMine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopicMine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gensim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2572202" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings module-name="TopicMine" sdk-home="$USER_HOME$/anaconda3/bin/python">
-        <option name="mySdkHome" value="$USER_HOME$/anaconda3/bin/python" />
+      <console-settings module-name="TopicMine" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
         <option name="myModuleName" value="TopicMine" />
       </console-settings>
     </option>
@@ -204,15 +232,15 @@
       <recent name="D:\MyProject\pythonProjects\TopicMine\GetData" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProject\pythonProjects\TopicMine\LDA_T\pictures" />
+      <recent name="D:\MyProject\pythonProjects\TopicMine\LDA_T" />
       <recent name="D:\MyProject\pythonProjects\TopicMine\LDA" />
       <recent name="D:\MyProject\pythonProjects\TopicMine\GetData" />
       <recent name="D:\MyProject\pythonProjects\TopicMine\GetData\geology\data" />
-      <recent name="D:\MyProject\pythonProjects\TopicMine\GetData\geology" />
-      <recent name="D:\MyProject\pythonProjects\TopicMine\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hdp_gensim">
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.predata">
+    <configuration default="false" name="lda_gensim" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -224,7 +252,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TopicMine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDA_T/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDA_T/lda_gensim.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -246,7 +274,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="get_chunk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="get_noun_chunk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -258,12 +286,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TopicMine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDA_T/get_chunk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDA_T/get_noun_chunk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="lda_gensim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="train_corpora" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -275,7 +303,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TopicMine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDA_T/lda_gensim.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LDA_T/train_corpora.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -423,19 +451,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.lda_gensim" />
       <item index="1" class="java.lang.String" itemvalue="Python.predata" />
-      <item index="2" class="java.lang.String" itemvalue="Python.get_chunk" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lda_gensim" />
+      <item index="2" class="java.lang.String" itemvalue="Python.get_noun_chunk" />
+      <item index="3" class="java.lang.String" itemvalue="Python.train_corpora" />
       <item index="4" class="java.lang.String" itemvalue="Python.hdp_gensim" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.hdp_gensim" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lda_gensim" />
-        <item index="2" class="java.lang.String" itemvalue="Python.predata" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_chunk" />
+        <item index="0" class="java.lang.String" itemvalue="Python.predata" />
+        <item index="1" class="java.lang.String" itemvalue="Python.get_noun_chunk" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hdp_gensim" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lda_gensim" />
+        <item index="4" class="java.lang.String" itemvalue="Python.train_corpora" />
       </list>
     </recent_temporary>
   </component>
@@ -462,15 +490,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16817497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24292101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280142" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41034484" sideWeight="0.50596124" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32624114" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40957448" sideWeight="0.50596124" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32586208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32931036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.49403876" order="2" side_tool="false" content_ui="tabs" x="-8" y="-19" width="1382" height="744" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -514,12 +542,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="87" />
+      <option name="time" value="89" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -528,31 +561,43 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gensim/data/test.svmlight">
+    <entry file="file://$PROJECT_DIR$/LDA_T/predata.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#129#138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/C-DBLP/getauthors.py">
+    <entry file="file://$PROJECT_DIR$/LDA_T/hdp_gensim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2760416">
-          <caret line="58" column="35" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#130#164#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/C-DBLP/getdata.py">
+    <entry file="file://$PROJECT_DIR$/LDA_T/lda_gensim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8697916">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="e#106#125#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/C-DBLP/getpaper.py">
+    <entry file="file://$PROJECT_DIR$/LDA_T/train_corpora.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9809027">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="48" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding>
+            <element signature="e#106#141#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -570,38 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_depart_coauthor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3424408">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_sim.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5154827">
-          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5191257">
-          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_邱.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.5883424">
           <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_departs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72313297">
-          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -626,41 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/合著者机构匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48087433">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/evaluate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2076503">
-          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gensim/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5883424">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gensim/process_wiki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03460838">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gensim/Transformations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Anaconda3/Lib/site-packages/gensim/models/tfidfmodel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50637525">
@@ -668,80 +650,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_corpus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48087433">
-          <caret line="58" column="53" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gensim/SimilarityQuery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4845173">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Anaconda3/Lib/site-packages/nltk/tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03460838">
           <caret line="32" column="10" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/access_to_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8342441">
-          <caret line="64" column="105" selection-start-line="64" selection-start-column="97" selection-end-line="64" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/geology/create_name_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55373406">
-          <caret line="42" column="49" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60600376">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/1013586911/_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3095685">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gensim/data/mycorpus.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/stopwords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23952095">
-          <caret line="153" column="2" selection-start-line="153" selection-start-column="2" selection-end-line="153" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/temp1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="70" column="264" selection-start-line="70" selection-start-column="262" selection-end-line="70" selection-end-column="264" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GetData/preprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7861163">
-          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -759,59 +671,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64165103">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/parse.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4258912">
-          <caret line="139" column="10" selection-start-line="139" selection-start-column="10" selection-end-line="139" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/chunk.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7129456">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/userdict.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5988024">
-          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/segment_ltp.txt">
+    <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/1013586911/_collections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="32" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="32" />
+          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/segment_jieba.txt">
+    <entry file="file://C:/Anaconda3/Lib/site-packages/gensim/corpora/dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="50" column="53" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/pos.txt">
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/stopwords.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="44" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/noun1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.704918">
+          <caret line="153" column="2" selection-start-line="153" selection-start-column="2" selection-end-line="153" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -819,75 +697,251 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/data/noun2.txt">
+    <entry file="file://C:/Anaconda3/Lib/site-packages/gensim/interfaces.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LDA_T/hdp_gensim.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27868852">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#130#164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/train_corpora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3315119">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="e#106#141#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/pictures/40topics.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/pictures/2-19topics.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/pictures/2-10topics.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/noun1.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/get_chunk.py">
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/temp1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="70" column="264" selection-start-line="70" selection-start-column="262" selection-end-line="70" selection-end-column="264" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/pos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030965392">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/segment_jieba.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="99" column="40" selection-start-line="99" selection-start-column="40" selection-end-line="99" selection-end-column="40" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/segment_ltp.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/C-DBLP/getauthors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6010929">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/C-DBLP/getdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/n_gram_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6721312">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/noun2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27868852">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDA_T/get_noun_chunk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="7" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
           <folding>
-            <element signature="e#1201#1803#0" expanded="false" />
+            <element signature="e#130#139#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/2-19topics.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/GetData/geology/合著者机构匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5355191">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/40topics.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/GetData/geology/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46448088">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDA_T/2-10topics.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/LDA_T/data/user_dict.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/geology/access_to_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.7868853">
+          <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+          <folding>
+            <element signature="e#106#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/geology/create_name_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.446266">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+          <folding>
+            <element signature="e#106#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/geology/evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9289618">
+          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_corpus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.20765027">
+          <caret line="58" column="53" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_depart_coauthor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.446266">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75227684">
+          <caret line="159" column="10" selection-start-line="159" selection-start-column="10" selection-end-line="159" selection-end-column="10" />
+          <folding>
+            <element signature="e#106#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_departs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3934426">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetData/geology/name_dis_sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5664845">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LDA_T/lda_gensim.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5290807">
-          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-          <folding>
-            <element signature="e#15#34#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.061930783">
+          <caret line="2" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LDA_T/predata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57223266">
-          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+        <state vertical-scroll-proportion="2.6630237">
+          <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
           <folding>
-            <element signature="e#129#138#0" expanded="false" />
-            <element signature="e#594#1467#0" expanded="false" />
-            <element signature="e#1495#2239#0" expanded="false" />
+            <element signature="e#129#138#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gensim/Corpora.py">
+    <entry file="file://$PROJECT_DIR$/GetData/C-DBLP/getpaper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6051873">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.030965392">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="48" selection-end-column="16" />
           <folding />
         </state>
       </provider>
